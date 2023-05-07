@@ -1,0 +1,2 @@
+text2 = "YOUR DEVICE HAS BEEN HACKED"
+text3 = "Your IP adress: "+string_format(random_range(1, 255), 0, 0)+"."+string_format(random_range(1, 255), 0, 0)+"."+string_format(random_range(1, 255), 0, 0)+"."+string_format(random_range(1, 255), 0, 0)
